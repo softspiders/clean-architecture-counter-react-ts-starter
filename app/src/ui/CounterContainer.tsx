@@ -22,7 +22,7 @@ const CounterContainer = ({ useCase }: CounterContainerProps) => {
 
   const handleIncrement = useCallback(async (): Promise<void> => {
     try {
-      const newCounter: Counter = await useCase.getCounter()
+      const newCounter: Counter = await useCase.increment()
       setCounter(newCounter.count)
     } catch (error) {
       console.log(error)
