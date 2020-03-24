@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect } from 'react'
-import { CounterInteractor } from '../domain/usecase'
+import { CounterInteractor } from '../domain/usecases'
 
 interface CounterContainerProps {
   useCase: CounterInteractor

@@ -13,14 +13,13 @@ UNDER DEVELOPMENT
 - counter-app
 - jest
 - react
-- rest
 - starter
 - template
 - typescript
 
 ---
 ## Children
-[+**db**](https://github.com/softspiders/clean-architecture-react-counter-db-ts-starter)
+[+**db, rest**](https://github.com/softspiders/clean-architecture-react-counter-db-ts-starter)
 
 ---
 ## Author
@@ -30,7 +29,7 @@ UNDER DEVELOPMENT
 ---
 ## Inspired by
 
-- [Eduardo Moroni](https://github.com/eduardomoroni)'s [*react-clean-architecture*](https://github.com/eduardomoroni/react-clean-architecture)
+[Eduardo Moroni](https://github.com/eduardomoroni)'s [*react-clean-architecture*](https://github.com/eduardomoroni/react-clean-architecture)
 
 ---
 
